@@ -4,9 +4,6 @@
 # Copyright (c) 2021 www.af-blog.de
 # ----------------------------------------------------------
 
-(\.|^)jwplayer\.com$
-(\.|^)googlevideo\.com$
-(\.|^)youtube\.com$
-(\.|^)youtube-ui\.l\.google\.com$
-(\.|^)sn-4g5edn6k\.googlevideo\.com$
+0.0.0.0 ads.youtube.com
+0.0.0.0 s2.youtube.com
 
