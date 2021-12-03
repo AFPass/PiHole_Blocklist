@@ -1,0 +1,9 @@
+# ----------------------------------------------------------
+# AF-Blog.de PI-HOLE BLOCKLIST: Instagram
+# ----------------------------------------------------------
+# Copyright (c) 2021 www.af-blog.de
+# ----------------------------------------------------------
+
+(\.|^)instagram\.com$
+(\.|^)cdninstagram\.com$
+instagram.c10r.facebook.com
