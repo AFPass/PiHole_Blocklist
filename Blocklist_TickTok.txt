@@ -1,0 +1,5 @@
+########### Sozial Media Tick Tok ###########
+(\.|^)tiktokcdn\.com$
+(\.|^)tiktokcdn-us\.com$
+(\.|^)tiktokv\.com$
+(\.|^)tiktok$
