@@ -7,3 +7,7 @@
 (\.|^)tiktokcdn-us\.com$
 (\.|^)tiktokv\.com$
 (\.|^)tiktok$
+(\.|^)tiktokcdn$
+(\.|^)tiktokcdn-com\.akamaized\.net$
+(\.|^)musical\.ly$
+(\.|^)musically\.ly$
