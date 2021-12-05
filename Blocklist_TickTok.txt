@@ -24,3 +24,4 @@
 0.0.0.0 v16-tiktokcdn-com.akamaized.net
 0.0.0.0 www.tiktok.com
 0.0.0.0 xlog-va.byteoversea.com
+0.0.0.0 p77-va.tiktokcdn.com
