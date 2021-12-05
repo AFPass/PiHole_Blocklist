@@ -1,0 +1,43 @@
+# ----------------------------------------------------------
+# AF-Blog.de PI-HOLE BLOCKLIST: Nextflix
+# ----------------------------------------------------------
+# Copyright (c) 2021 www.af-blog.de
+# ----------------------------------------------------------
+
+0.0.0.0 ichnaea-web.netflix.com
+0.0.0.0 ichnaea-web.netflix.com
+0.0.0.0 ios-anycast.prod.ftl.netflix.com
+0.0.0.0 mobile.prod.dradis.netflix.com
+0.0.0.0 ios.prod.ftl.netflix.com
+0.0.0.0 ios.prod.cloud.netflix.com
+0.0.0.0 ios.ngp.prod.cloud.netflix.com
+0.0.0.0 appboot.eu-west-1.origin.prodaa.netflix.com
+0.0.0.0 appboot.netflix.com
+0.0.0.0 www.netflix.com
+0.0.0.0 mobile-ixanycast.ftl.netflix.com
+0.0.0.0 anycast.ftl.netflix.com
+0.0.0.0 h1-scm.prod.ftl.netflix.com
+0.0.0.0 h2-scm.prod.ftl.netflix.com
+0.0.0.0 oca-api.netflix.com
+0.0.0.0 ixanycast.ftl.netflix.com
+0.0.0.0 fast.dradis.netflix.com
+0.0.0.0 ios.prod.dradis.netflix.com
+0.0.0.0 probe-future-aws-dradis.prod.ftl.netflix.com
+0.0.0.0 probe-aws-dradis.prod.ftl.netflix.com
+0.0.0.0 probe-dradis.prod.ftl.netflix.com
+0.0.0.0 probe-future-dradis.prod.ftl.netflix.com
+0.0.0.0 www.dradis.netflix.com
+0.0.0.0 ios.prod.eu-west-1.internal.dradis.netflix.com
+0.0.0.0 ichnaea-web.dradis.netflix.com
+0.0.0.0 www.eu-west-1.internal.dradis.netflix.com
+0.0.0.0 preapp.prod.partner.netflix.net
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 nrdp.prod.ftl.netflix.com
+0.0.0.0 api-global.netflix.com
+0.0.0.0 push.prod.netflix.com
+0.0.0.0 customerevents.netflix.com
+0.0.0.0 uiboot.netflix.com
+0.0.0.0 nrdp.nccp.netflix.com
+0.0.0.0 nrdp51-appboot.netflix.com
+0.0.0.0 secure.netflix.com
+0.0.0.0 nrdp50-appboot.netflix.com
