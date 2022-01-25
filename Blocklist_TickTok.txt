@@ -157,3 +157,4 @@
 0.0.0.0 vcs-va.tiktokv.com
 0.0.0.0 webcast16-normal-c-useast1a.tiktokv.com
 0.0.0.0 webcast22-normal-c-useast1a.tiktokv.com
+0.0.0.0 pull-f5-tt01.fcdn.us.tiktokv.com
