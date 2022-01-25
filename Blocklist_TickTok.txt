@@ -159,3 +159,5 @@
 0.0.0.0 webcast22-normal-c-useast1a.tiktokv.com
 0.0.0.0 pull-f5-tt01.fcdn.us.tiktokv.com
 0.0.0.0 lf16-tos-files.tiktokcdn.com
+0.0.0.0 api19-normal-c-useast1a.tiktokv.com
+0.0.0.0 api19-core-c-useast1a.tiktokv.com
