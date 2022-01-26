@@ -6,4 +6,8 @@
 
 0.0.0.0 ads.youtube.com
 0.0.0.0 s2.youtube.com
-
+0.0.0.0 rr5---sn-4g5edn6y.googlevideo.com
+0.0.0.0 rr3---sn-4g5edn6k.googlevideo.com
+0.0.0.0 rr1---sn-4g5ednde.googlevideo.com
+0.0.0.0 www.youtube.com
+0.0.0.0 s.youtube.com
