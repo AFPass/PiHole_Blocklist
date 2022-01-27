@@ -1,1 +1,1 @@
-(\.|^)af-blog\.de$
+*.af-blog\.de
