@@ -1,0 +1,15 @@
+# ----------------------------------------------------------
+# AF-Blog.de PI-HOLE BLOCKLIST: Samsung TV Ad
+# ----------------------------------------------------------
+# Copyright (c) 2022 www.af-blog.de
+# ----------------------------------------------------------
+
+0.0.0.0 samsungads.com
+0.0.0.0 ads.samsungads.com
+0.0.0.0 config.samsungads.com
+0.0.0.0 events.samsungads.com
+0.0.0.0 samsungtvads.com
+0.0.0.0 nugg.ad
+0.0.0.0 de.theadex.com
+0.0.0.0 theadex.com
+0.0.0.0 tvx.adgrx.com
