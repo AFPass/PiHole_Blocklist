@@ -1,0 +1,18 @@
+# ----------------------------------------------------------
+# AF-Blog.de PI-HOLE BLOCKLIST: Twitch
+# ----------------------------------------------------------
+# Copyright (c) 2022 www.af-blog.de
+# ----------------------------------------------------------
+
+0.0.0.0 jtvnw.twitchcdn.net
+0.0.0.0 twitch.map.fastly.net
+0.0.0.0 ttvnw.net
+0.0.0.0 usher.ttvnw.net
+0.0.0.0 panels-images.twitch.tv
+0.0.0.0 twitch.tv
+0.0.0.0 static.twitchcdn.net
+0.0.0.0 video-weaver.fra02.hls.ttvnw.net
+0.0.0.0 video-edge-6b2278.dus01.abs.hls.ttvnw.net
+0.0.0.0 video-edge-c2a338.fra02.abs.hls.ttvnw.net
+0.0.0.0 video-edge-ac37d8.pdx01.abs.hls.ttvnw.net
+0.0.0.0 video-edge-c683fc.fra02.abs.hls.ttvnw.net
