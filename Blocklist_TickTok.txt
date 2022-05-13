@@ -80,6 +80,7 @@
 0.0.0.0 pull-f5-tt01.fcdn.us.tiktokv.com
 0.0.0.0 pull-f5-tt01.fcdn.us.tiktokv.com.c.worldfcdn2.com
 0.0.0.0 pull-f5-tt01.tiktokcdn.com
+0.0.0.0 pull-f5-tt02.tiktokcdn.com
 0.0.0.0 pull-f5-va01.tiktokcdn.com
 0.0.0.0 pull-f5.tiktokcdn.com
 0.0.0.0 pull-f5.tiktokcdn.com.c.bytetcdn.com
